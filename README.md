@@ -1,8 +1,4 @@
- 🤖 MATEUS0818 // JARVIS CORE
-
-<p align="center">
-  <img src="https://vercel.app" width="100%" />
-</p>
+# 🤖 MATEUS0818 // JARVIS CORE
 
 <p align="center">
   <img src="https://demolab.com;🤖+WELCOME+TO+JARVIS+CORE" alt="Typing Animation" />
@@ -150,8 +146,4 @@ Minha missão é fundir a lógica robusta da computação clássica com a estét
     <b>SYSTEM LOCKDOWN // EXECUÇÃO BEM-SUCEDIDA</b><br />
     Desenhado com 🤍, código limpo e muita cafeína. © 2026.
   </samp>
-</p>
-
-<p align="center">
-  <img src="https://vercel.app" width="100%" />
 </p>
