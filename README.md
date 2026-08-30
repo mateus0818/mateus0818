@@ -77,10 +77,10 @@ sistema:
 
 <div align="center">
 
-<a href="https://github.com/mateus0818/calculadora-cpp">
+<a href="https://github.com/mateus0818/simulador-banco-cpp">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=mateus0818&repo=calculadora-cpp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF2EC4&text_color=C9D1D9"/>
 </a>
-<a href="https://github.com/mateus0818/idade-cpp">
+<a href="https://github.com/mateus0818/validacao-entrada-cpp">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=mateus0818&repo=idade-cpp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF2EC4&text_color=C9D1D9"/>
 </a>
 
