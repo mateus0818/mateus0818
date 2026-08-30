@@ -2,58 +2,58 @@
 
 # ⚡ MATEUS SANTOS
 
-### `SYSTEM INITIALIZING...`
+### `SISTEMA INICIALIZANDO...`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hello%2C+World!+%F0%9F%91%8B;Computer+Science+Student+%F0%9F%92%BB;C%2B%2B+Beginner+%7C+Always+Learning;Building+my+skills+one+line+at+a+time...;System+Status%3A+ONLINE+%E2%9C%85" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Ola%2C+Mundo!+%F0%9F%91%8B;Estudante+de+Ciencia+da+Computacao+%F0%9F%92%BB;Iniciante+em+C%2B%2B+%7C+Sempre+Aprendendo;Construindo+minhas+habilidades+linha+por+linha...;Status+do+Sistema%3A+ONLINE+%E2%9C%85" alt="Animação de digitação" />
 
 <br>
 
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00F7FF?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/FOCUS-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/LEARNING-IN_PROGRESS-7B2CBF?style=for-the-badge&logo=bookstack&logoColor=white" />
+<img src="https://img.shields.io/badge/FOCO-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/APRENDIZADO-EM_ANDAMENTO-7B2CBF?style=for-the-badge&logo=bookstack&logoColor=white" />
 
 </div>
 
 ---
 
-## `> ABOUT_ME.exe`
+## `> SOBRE_MIM.exe`
 
 ```cpp
 #include <iostream>
 
 int main() {
 
-    std::cout << "Hello, World!\n";
+    std::cout << "Ola, Mundo!\n";
 
-    std::cout << "I'm Mateus Santos.\n";
-    std::cout << "Computer Science student.\n";
-    std::cout << "Currently learning C++.\n";
-    std::cout << "Building my foundation in programming.\n";
-    std::cout << "Always looking for the next challenge.\n";
+    std::cout << "Eu sou Mateus Santos.\n";
+    std::cout << "Estudante de Ciencia da Computacao.\n";
+    std::cout << "Atualmente aprendendo C++.\n";
+    std::cout << "Construindo minha base em programacao.\n";
+    std::cout << "Sempre em busca do proximo desafio.\n";
 
     return 0;
 }
 ```
 
-🎓 **Computer Science student**
+🎓 **Estudante de Ciência da Computação**
 
-💻 Currently focused on **C++ fundamentals**
+💻 Atualmente focado nos **fundamentos de C++**
 
-🧠 Learning programming logic and problem solving
+🧠 Aprendendo lógica de programação e resolução de problemas
 
-🚀 Creating projects to turn theory into practice
+🚀 Criando projetos para transformar teoria em prática
 
-🎯 Goal: become a better developer every day
+🎯 Objetivo: evoluir como desenvolvedor todos os dias
 
-> **"Every expert was once a beginner."**
+> **"Todo especialista já foi um iniciante."**
 
 ---
 
-# `> TECH_STACK`
+# `> TECNOLOGIAS`
 
 <div align="center">
 
-### Currently Learning
+### Atualmente aprendendo
 
 <img src="https://skillicons.dev/icons?i=cpp" />
 
@@ -63,23 +63,23 @@ int main() {
 
 </div>
 
-### 📚 Currently studying
+### 📚 O que estou estudando
 
-* 🔹 Variables and data types
-* 🔹 Input and output
-* 🔹 Operators
-* 🔹 Conditional structures
+* 🔹 Variáveis e tipos de dados
+* 🔹 Entrada e saída de dados
+* 🔹 Operadores
+* 🔹 Estruturas condicionais
 * 🔹 `if / else`
-* 🔹 Loops
-* 🔹 Functions
+* 🔹 Estruturas de repetição
+* 🔹 Funções
 * 🔹 Strings
 * 🔹 Arrays
-* 🔹 Object-Oriented Programming
-* 🔹 Algorithms and data structures
+* 🔹 Programação Orientada a Objetos
+* 🔹 Algoritmos e estruturas de dados
 
 ---
 
-# `> TOOLS`
+# `> FERRAMENTAS`
 
 <div align="center">
 
@@ -87,16 +87,16 @@ int main() {
 
 </div>
 
-| Tool       | Purpose                   |
-| ---------- | ------------------------- |
-| 💻 VS Code | Code editor               |
-| 🐙 GitHub  | Projects and repositories |
-| 🔧 Git     | Version control           |
-| 🪟 Windows | Development environment   |
+| Ferramenta | Utilização                  |
+| ---------- | --------------------------- |
+| 💻 VS Code | Editor de código            |
+| 🐙 GitHub  | Projetos e repositórios     |
+| 🔧 Git     | Controle de versão          |
+| 🪟 Windows | Ambiente de desenvolvimento |
 
 ---
 
-# `> PROJECTS`
+# `> PROJETOS`
 
 <div align="center">
 
@@ -105,25 +105,25 @@ int main() {
 
 <td width="50%" valign="top">
 
-### 🧮 C++ Calculator
+### 🧮 Calculadora em C++
 
-A beginner project created to practice fundamental C++ concepts.
+Projeto desenvolvido para praticar os fundamentos da linguagem C++.
 
-**Technologies**
+**Tecnologias**
 
-`C++` `Logic` `Input/Output`
+`C++` `Lógica` `Entrada/Saída`
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🔢 Age Calculator
+### 🔢 Calculadora de Idade
 
-A simple project focused on variables, user input and mathematical operations.
+Projeto simples focado em variáveis, entrada de dados e operações matemáticas.
 
-**Technologies**
+**Tecnologias**
 
-`C++` `Variables` `Operators`
+`C++` `Variáveis` `Operadores`
 
 </td>
 
@@ -133,25 +133,25 @@ A simple project focused on variables, user input and mathematical operations.
 
 <td width="50%" valign="top">
 
-### 🚧 More Projects
+### 🚧 Mais projetos
 
-Currently developing new projects while learning C++.
+Atualmente desenvolvendo novos projetos enquanto aprendo C++.
 
 **Status**
 
-`IN DEVELOPMENT`
+`EM DESENVOLVIMENTO`
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🧠 Future Projects
+### 🧠 Próximos projetos
 
-Algorithms, data structures and larger C++ applications.
+Algoritmos, estruturas de dados e aplicações maiores em C++.
 
 **Status**
 
-`LOADING...`
+`CARREGANDO...`
 
 </td>
 
@@ -162,28 +162,28 @@ Algorithms, data structures and larger C++ applications.
 
 ---
 
-# `> CURRENT_OBJECTIVES`
+# `> OBJETIVOS_ATUAIS`
 
 ```text
 ╔══════════════════════════════════════════════════════════╗
-║                  SYSTEM OBJECTIVES                      ║
+║                    OBJETIVOS DO SISTEMA                 ║
 ╠══════════════════════════════════════════════════════════╣
 ║                                                          ║
-║  [████████████░░░░░░░░]  C++ Fundamentals               ║
-║  [████████░░░░░░░░░░░░]  Programming Logic              ║
-║  [██████░░░░░░░░░░░░░░]  Algorithms                     ║
-║  [████░░░░░░░░░░░░░░░░]  Data Structures                ║
-║  [██░░░░░░░░░░░░░░░░░░]  Object-Oriented Programming   ║
+║  [████████████░░░░░░░░]  Fundamentos de C++             ║
+║  [████████░░░░░░░░░░░░]  Lógica de Programação         ║
+║  [██████░░░░░░░░░░░░░░]  Algoritmos                     ║
+║  [████░░░░░░░░░░░░░░░░]  Estruturas de Dados           ║
+║  [██░░░░░░░░░░░░░░░░░░]  Programação Orientada a Objetos║
 ║                                                          ║
 ╠══════════════════════════════════════════════════════════╣
-║  STATUS: LEARNING MODE                                   ║
-║  NEXT TARGET: BUILD MORE PROJECTS                        ║
+║  STATUS: MODO APRENDIZADO                               ║
+║  PRÓXIMO OBJETIVO: CRIAR MAIS PROJETOS                  ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-# `> GITHUB_STATS`
+# `> ESTATÍSTICAS_DO_GITHUB`
 
 <div align="center">
 
@@ -203,7 +203,7 @@ Algorithms, data structures and larger C++ applications.
 
 ---
 
-# `> ACTIVITY_GRAPH`
+# `> GRÁFICO_DE_ATIVIDADE`
 
 <div align="center">
 
@@ -213,7 +213,7 @@ Algorithms, data structures and larger C++ applications.
 
 ---
 
-# `> TROPHIES`
+# `> TROFÉUS`
 
 <div align="center">
 
@@ -223,17 +223,17 @@ Algorithms, data structures and larger C++ applications.
 
 ---
 
-# `> CONTRIBUTION_MATRIX`
+# `> MATRIZ_DE_CONTRIBUIÇÕES`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mateus0818/mateus0818/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/mateus0818/mateus0818/output/github-contribution-grid-snake-dark.svg" alt="Animação da cobrinha de contribuições" />
 
 </div>
 
 ---
 
-# `> CONNECT`
+# `> REDES_SOCIAIS`
 
 <div align="center">
 
@@ -242,7 +242,7 @@ Algorithms, data structures and larger C++ applications.
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
@@ -251,25 +251,25 @@ Algorithms, data structures and larger C++ applications.
 
 <div align="center">
 
-### `SYSTEM STATUS`
+### `STATUS DO SISTEMA`
 
-<img src="https://img.shields.io/badge/LEARNING-ONLINE-00F7FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/APRENDIZADO-ONLINE-00F7FF?style=for-the-badge" />
 
 <br><br>
 
 ```text
 ┌──────────────────────────────────────────┐
 │                                          │
-│   > Keep learning.                      │
-│   > Keep building.                      │
-│   > Keep improving.                     │
+│   > Continue aprendendo.                 │
+│   > Continue criando.                    │
+│   > Continue evoluindo.                  │
 │                                          │
-│   SYSTEM: MATEUS_DEV                    │
-│   STATUS: ONLINE                        │
+│   SISTEMA: MATEUS_DEV                    │
+│   STATUS: ONLINE                         │
 │                                          │
 └──────────────────────────────────────────┘
 ```
 
-### ⚡ `Building the future, one line at a time.`
+### ⚡ `Construindo o futuro, uma linha por vez.`
 
 </div>
