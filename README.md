@@ -1,137 +1,275 @@
-# 🤖 MATEUS0818 // JARVIS CORE
-
-<p align="center">
-  <img src="https://demolab.com;🤖+WELCOME+TO+JARVIS+CORE" alt="Typing Animation" />
-</p>
-
-<p align="center">
-  <img src="https://shields.io" alt="Status Operational" />
-  <img src="https://shields.io" alt="Academic Level" />
-  <img src="https://shields.io" alt="Current Focus" />
-</p>
-
-<p align="center">
-  <a href="#-redes-e-conexões">
-    <img src="https://shields.io" alt="Connect button" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://imgur.com" width="100%" height="2px" />
-</p>
-
-<br />
-
-## 🌐 OVERVIEW // DIAGNÓSTICO DO SISTEMA
-
-```microdos
-[STARDATE: 2026.242]
-[LOCATION: BRAZIL // MINAS GERAIS]
-[USER_TYPE: ACADEMIC_ENTRANT]
-
-> Carregando informações sobre o terminal de desenvolvimento...
-```
-
-Olá, viajante da rede! Sou um entusiasta de tecnologia que acabou de iniciar a jornada na faculdade de **Ciências da Computação**. Estou configurando meus primeiros algoritmos, desbravando a arquitetura de computadores e focado em dominar os mistérios de baixo nível com **C++**. 
-
-Minha missão é fundir a lógica robusta da computação clássica com a estética futurista do ciberespaço, construindo softwares rápidos, eficientes e inteligentes.
-
-* 🎓 **Fase Atual:** 1º Ano em Ciências da Computação.
-* 🧪 **Laboratório Atual:** Estudando ponteiros, alocação de memória e POO em **C++**.
-* 🛠️ **Arquitetura Favorita:** Interfaces escuras, HUDs no estilo JARVIS e sistemas automatizados.
-* ⚡ **Fato Curioso:** Eu prefiro entender o erro de compilação do que receber um código que funciona de primeira sem explicação.
-
-<br />
-
-## 🛠️ TECH STACK // MÓDULOS DE HARDWARE
-
-### 🧠 Linguagens em Execução
-* <img src="https://shields.io" alt="C++" />
-* <img src="https://shields.io" alt="C" />
-* <img src="https://shields.io" alt="Python" />
-* <img src="https://shields.io" alt="JavaScript" />
-* <img src="https://shields.io" alt="Markdown" />
-
-### 💻 Ambiente de Desenvolvimento & Ferramentas
-* <img src="https://shields.io" alt="Linux" />
-* <img src="https://shields.io" alt="Git" />
-* <img src="https://shields.io" alt="GitHub" />
-* <img src="https://shields.io" alt="VS Code" />
-
-<br />
-
-## 🎯 CORE OBJECTIVES // DIRETRIZES ATUAIS
-
-<table>
-  <tr>
-    <td>
-      <pre>
-<b>📥 USER@JARVIS_CORE:~$ run objectives.sh</b>
-
-<font color="#00FF66">[✓] Concluir o primeiro semestre sem bugs críticos na Matrix.</font>
-<font color="#00F0FF">[▶] Criar 10 algoritmos complexos de estruturas de dados puramente em C++.</font>
-<font color="#FF007F">[ ] Automatizar rotinas de estudo usando scripts em Python.</font>
-<font color="#9900FF">[ ] Desenvolver uma interface de terminal inspirada em Cyberpunk (HUD Cli).</font>
-
-<b>STATUS: OPERANDO EM CAPACIDADE MÁXIMA.</b>
-      </pre>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-## 🗂️ DEPLOYED PROJECTS // REPOSITÓRIOS EM DESTAQUE
-
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" padding="10px">
-        <div align="left">
-          <h3>⚡ Cyber-Pointer C++</h3>
-          <p><em>Repositório dedicado ao aprendizado de algoritmos, manipulação de ponteiros e estruturas de dados básicas em C++.</em></p>
-          <img src="https://shields.io" alt="Status" />
-          <img src="https://shields.io" alt="Tech" />
-        </div>
-      </td>
-      <td width="50%" padding="10px">
-        <div align="left">
-          <h3>🤖 Jarvis Academic Bot</h3>
-          <p><em>Script experimental automatizado para organizar grade horária da faculdade e calcular médias de blocos acadêmicos.</em></p>
-          <img src="https://shields.io" alt="Status" />
-          <img src="https://shields.io" alt="Tech" />
-        </div>
-      </td>
-    </tr>
-  </table>
+
+# ⚡ MATEUS SANTOS
+
+### `SYSTEM INITIALIZING...`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hello%2C+World!+%F0%9F%91%8B;Computer+Science+Student+%F0%9F%92%BB;C%2B%2B+Beginner+%7C+Always+Learning;Building+my+skills+one+line+at+a+time...;System+Status%3A+ONLINE+%E2%9C%85" alt="Typing Animation" />
+
+<br>
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00F7FF?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/FOCUS-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/LEARNING-IN_PROGRESS-7B2CBF?style=for-the-badge&logo=bookstack&logoColor=white" />
+
 </div>
 
-<br />
+---
 
-## 📡 REDES E CONEXÕES // SUB-NETWORKS
+## `> ABOUT_ME.exe`
 
-<p align="center">
-  Estabeleça uma conexão segura através dos canais abaixo:
-</p>
+```cpp
+#include <iostream>
 
-<p align="center">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn Secure Link" />
-  </a>
-  <a href="mailto:seu-email@provedor.com" target="_blank">
-    <img src="https://shields.io" alt="Secure Mail Inbound" />
-  </a>
-</p>
+int main() {
 
-<br />
+    std::cout << "Hello, World!\n";
 
-<p align="center">
-  <img src="https://imgur.com" width="100%" height="2px" />
-</p>
+    std::cout << "I'm Mateus Santos.\n";
+    std::cout << "Computer Science student.\n";
+    std::cout << "Currently learning C++.\n";
+    std::cout << "Building my foundation in programming.\n";
+    std::cout << "Always looking for the next challenge.\n";
 
-<p align="center">
-  <samp>
-    <b>SYSTEM LOCKDOWN // EXECUÇÃO BEM-SUCEDIDA</b><br />
-    Desenhado com 🤍, código limpo e muita cafeína. © 2026.
-  </samp>
-</p>
+    return 0;
+}
+```
+
+🎓 **Computer Science student**
+
+💻 Currently focused on **C++ fundamentals**
+
+🧠 Learning programming logic and problem solving
+
+🚀 Creating projects to turn theory into practice
+
+🎯 Goal: become a better developer every day
+
+> **"Every expert was once a beginner."**
+
+---
+
+# `> TECH_STACK`
+
+<div align="center">
+
+### Currently Learning
+
+<img src="https://skillicons.dev/icons?i=cpp" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+
+</div>
+
+### 📚 Currently studying
+
+* 🔹 Variables and data types
+* 🔹 Input and output
+* 🔹 Operators
+* 🔹 Conditional structures
+* 🔹 `if / else`
+* 🔹 Loops
+* 🔹 Functions
+* 🔹 Strings
+* 🔹 Arrays
+* 🔹 Object-Oriented Programming
+* 🔹 Algorithms and data structures
+
+---
+
+# `> TOOLS`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,windows" />
+
+</div>
+
+| Tool       | Purpose                   |
+| ---------- | ------------------------- |
+| 💻 VS Code | Code editor               |
+| 🐙 GitHub  | Projects and repositories |
+| 🔧 Git     | Version control           |
+| 🪟 Windows | Development environment   |
+
+---
+
+# `> PROJECTS`
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🧮 C++ Calculator
+
+A beginner project created to practice fundamental C++ concepts.
+
+**Technologies**
+
+`C++` `Logic` `Input/Output`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔢 Age Calculator
+
+A simple project focused on variables, user input and mathematical operations.
+
+**Technologies**
+
+`C++` `Variables` `Operators`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🚧 More Projects
+
+Currently developing new projects while learning C++.
+
+**Status**
+
+`IN DEVELOPMENT`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧠 Future Projects
+
+Algorithms, data structures and larger C++ applications.
+
+**Status**
+
+`LOADING...`
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# `> CURRENT_OBJECTIVES`
+
+```text
+╔══════════════════════════════════════════════════════════╗
+║                  SYSTEM OBJECTIVES                      ║
+╠══════════════════════════════════════════════════════════╣
+║                                                          ║
+║  [████████████░░░░░░░░]  C++ Fundamentals               ║
+║  [████████░░░░░░░░░░░░]  Programming Logic              ║
+║  [██████░░░░░░░░░░░░░░]  Algorithms                     ║
+║  [████░░░░░░░░░░░░░░░░]  Data Structures                ║
+║  [██░░░░░░░░░░░░░░░░░░]  Object-Oriented Programming   ║
+║                                                          ║
+╠══════════════════════════════════════════════════════════╣
+║  STATUS: LEARNING MODE                                   ║
+║  NEXT TARGET: BUILD MORE PROJECTS                        ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+---
+
+# `> GITHUB_STATS`
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateus0818&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus0818&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=mateus0818&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# `> ACTIVITY_GRAPH`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mateus0818&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+# `> TROPHIES`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mateus0818&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+
+</div>
+
+---
+
+# `> CONTRIBUTION_MATRIX`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mateus0818/mateus0818/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+# `> CONNECT`
+
+<div align="center">
+
+<a href="https://github.com/mateus0818">
+<img src="https://img.shields.io/badge/GitHub-mateus0818-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### `SYSTEM STATUS`
+
+<img src="https://img.shields.io/badge/LEARNING-ONLINE-00F7FF?style=for-the-badge" />
+
+<br><br>
+
+```text
+┌──────────────────────────────────────────┐
+│                                          │
+│   > Keep learning.                      │
+│   > Keep building.                      │
+│   > Keep improving.                     │
+│                                          │
+│   SYSTEM: MATEUS_DEV                    │
+│   STATUS: ONLINE                        │
+│                                          │
+└──────────────────────────────────────────┘
+```
+
+### ⚡ `Building the future, one line at a time.`
+
+</div>
