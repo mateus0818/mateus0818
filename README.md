@@ -1,160 +1,124 @@
 <div align="center">
 
-# ⚡ MATEUS SANTOS
+# ⚡ MATEUS SANTOS // JARVIS CORE
 
 ### `SISTEMA INICIALIZANDO...`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Ola%2C+Mundo!+%F0%9F%91%8B;Estudante+de+Ciencia+da+Computacao+%F0%9F%92%BB;Iniciante+em+C%2B%2B+%7C+Sempre+Aprendendo;Construindo+minhas+habilidades+linha+por+linha...;Status+do+Sistema%3A+ONLINE+%E2%9C%85" alt="Animação de digitação" />
+<img src="https://demolab.com" alt="Animação de digitação" />
 
-<br>
+<br />
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00F7FF?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/FOCO-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/APRENDIZADO-EM_ANDAMENTO-7B2CBF?style=for-the-badge&logo=bookstack&logoColor=white" />
+<img src="https://shields.io" alt="Status" />
+<img src="https://shields.io" alt="Foco" />
+<img src="https://shields.io" alt="Aprendizado" />
 
 </div>
 
 ---
 
-## `> SOBRE_MIM.exe`
+## 🌐 `> SOBRE_MIM.exe`
 
 ```cpp
 #include <iostream>
+#include <vector>
 
 int main() {
+    std::cout << "🌐 inicializando perfil de mateus_santos...\n";
 
-    std::cout << "Ola, Mundo!\n";
+    std::vector<std::string> diretrizes = {
+        "Estudante de Ciencia da Computacao 🎓",
+        "Atualmente focado nos fundamentos de C++ 💻",
+        "Estudando logica e estruturas de dados avancadas 🧠",
+        "Construindo solucoes eficientes linha por linha 🚀"
+    };
 
-    std::cout << "Eu sou Mateus Santos.\n";
-    std::cout << "Estudante de Ciencia da Computacao.\n";
-    std::cout << "Atualmente aprendendo C++.\n";
-    std::cout << "Construindo minha base em programacao.\n";
-    std::cout << "Sempre em busca do proximo desafio.\n";
+    for(const auto& diretriz : diretrizes) {
+        std::cout << " > " << diretriz << "\n";
+    }
 
     return 0;
 }
 ```
 
-🎓 **Estudante de Ciência da Computação**
-
-💻 Atualmente focado nos **fundamentos de C++**
-
-🧠 Aprendendo lógica de programação e resolução de problemas
-
-🚀 Criando projetos para transformar teoria em prática
-
-🎯 Objetivo: evoluir como desenvolvedor todos os dias
-
-> **"Todo especialista já foi um iniciante."**
+> **"Todo especialista já foi um iniciante."** 🦾
 
 ---
 
-# `> TECNOLOGIAS`
+## 🛠️ `> TECNOLOGIAS_E_HARDWARE`
 
 <div align="center">
 
-### Atualmente aprendendo
+### Stack em Execução Principal
+<img src="https://skillicons.dev" alt="Tech Stack" />
 
-<img src="https://skillicons.dev/icons?i=cpp" />
+<br />
 
-<br><br>
-
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+### Módulos Complementares
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://shields.io" alt="Lógica" />
 
 </div>
 
-### 📚 O que estou estudando
-
-* 🔹 Variáveis e tipos de dados
-* 🔹 Entrada e saída de dados
-* 🔹 Operadores
-* 🔹 Estruturas condicionais
-* 🔹 `if / else`
-* 🔹 Estruturas de repetição
-* 🔹 Funções
-* 🔹 Strings
-* 🔹 Arrays
-* 🔹 Programação Orientada a Objetos
-* 🔹 Algoritmos e estruturas de dados
+### 📚 Grade de Estudos do Sistema
+* 🟩 **Core:** Variáveis, Tipos de Dados, Ponteiros e Alocação de Memória.
+* 🟦 **Estruturas:** `if / else`, Laços de Repetição (`for`, `while`) e Funções.
+* 🟪 **Avançado:** Programação Orientada a Objetos (POO), Algoritmos e Complexidade de Código.
 
 ---
 
-# `> FERRAMENTAS`
+## 🔧 `> FERRAMENTAS_DE_DESENVOLVIMENTO`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,windows" />
+<img src="https://skillicons.dev" alt="Tools" />
 
 </div>
 
-| Ferramenta | Utilização                  |
-| ---------- | --------------------------- |
-| 💻 VS Code | Editor de código            |
-| 🐙 GitHub  | Projetos e repositórios     |
-| 🔧 Git     | Controle de versão          |
-| 🪟 Windows | Ambiente de desenvolvimento |
+| Módulo | Escopo de Utilização | Status do Sistema |
+| :--- | :--- | :--- |
+| 💻 **VS Code** | Engenharia de Software & Escrita de Código | `PRONTO` |
+| 🐙 **GitHub** | Repositório em Nuvem & Portfólio Central | `ATIVO` |
+| 🔧 **Git** | Controle de Versão e Gestão de Linhas do Tempo | `CONFIGURADO` |
+| 🪟 **Windows/Linux** | Ambientes Compartilhados de Desenvolvimento | `OPERANTE` |
 
 ---
 
-# `> PROJETOS`
+## 🗂️ `> REPOSITÓRIOS_EM_DESTAQUE`
 
 <div align="center">
 
-<table>
+<table border="0">
 <tr>
-
 <td width="50%" valign="top">
 
-### 🧮 Calculadora em C++
-
-Projeto desenvolvido para praticar os fundamentos da linguagem C++.
-
-**Tecnologias**
-
-`C++` `Lógica` `Entrada/Saída`
+### 🧮 Cyber-Calculadora C++
+Projeto de baixo nível desenvolvido para consolidar estruturas condicionais e tratamento de erros aritméticos.
+`C++` `Entrada/Saída` `Lógica Pura`
 
 </td>
-
 <td width="50%" valign="top">
 
-### 🔢 Calculadora de Idade
-
-Projeto simples focado em variáveis, entrada de dados e operações matemáticas.
-
-**Tecnologias**
-
+### 🔢 Matrix Age Calculator
+Algoritmo focado em gerenciamento de memória temporária, manipulação de variáveis cronológicas e operadores.
 `C++` `Variáveis` `Operadores`
 
 </td>
-
 </tr>
-
 <tr>
-
 <td width="50%" valign="top">
 
-### 🚧 Mais projetos
-
-Atualmente desenvolvendo novos projetos enquanto aprendo C++.
-
-**Status**
-
-`EM DESENVOLVIMENTO`
+### 🚧 Repositórios Alpha
+Códigos acadêmicos experimentais sendo criados e lapidados durante as aulas da faculdade.
+`EM DESENVOLVIMENTO` `BUILDING`
 
 </td>
-
 <td width="50%" valign="top">
 
-### 🧠 Próximos projetos
-
-Algoritmos, estruturas de dados e aplicações maiores em C++.
-
-**Status**
-
-`CARREGANDO...`
+### 🤖 Jarvis Core Interface
+Futuro script em terminal CLI imitando interfaces cyberpunk e automações automatizadas.
+`CARREGANDO DIRETRIZES...`
 
 </td>
-
 </tr>
 </table>
 
@@ -162,68 +126,65 @@ Algoritmos, estruturas de dados e aplicações maiores em C++.
 
 ---
 
-# `> OBJETIVOS_ATUAIS`
+## 🎯 `> DIRETRIZES_E_TELEMETRIA`
 
 ```text
 ╔══════════════════════════════════════════════════════════╗
-║                    OBJETIVOS DO SISTEMA                 ║
+║                    DIRETRIZES ATUAIS                     ║
 ╠══════════════════════════════════════════════════════════╣
 ║                                                          ║
 ║  [████████████░░░░░░░░]  Fundamentos de C++             ║
 ║  [████████░░░░░░░░░░░░]  Lógica de Programação         ║
-║  [██████░░░░░░░░░░░░░░]  Algoritmos                     ║
+║  [██████░░░░░░░░░░░░░░]  Algoritmos de Busca            ║
 ║  [████░░░░░░░░░░░░░░░░]  Estruturas de Dados           ║
-║  [██░░░░░░░░░░░░░░░░░░]  Programação Orientada a Objetos║
+║  [██░░░░░░░░░░░░░░░░░░]  Programação Orientada a Objeto ║
 ║                                                          ║
 ╠══════════════════════════════════════════════════════════╣
-║  STATUS: MODO APRENDIZADO                               ║
-║  PRÓXIMO OBJETIVO: CRIAR MAIS PROJETOS                  ║
+║  STATUS: MODO DE APRENDIZADO INTENSIVO                   ║
+║  DIRETRIZ CORE: RESOLVER DESAFIOS ACADÊMICOS             ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-# `> ESTATÍSTICAS_DO_GITHUB`
+## 📊 `> TELEMETRIA_AVANÇADA`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateus0818&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<table border="0">
+<tr>
+<td>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateus0818&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
+</td>
+<td>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus0818&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+</td>
+</tr>
+</table>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus0818&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+<br />
 
-</div>
+<img src="https://streak-stats.demolab.com?user=mateus0818&theme=tokyonight&hide_border=true" alt="Status de atividade sequencial" />
 
-<br>
+<br />
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=mateus0818&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# `> GRÁFICO_DE_ATIVIDADE`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mateus0818&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mateus0818&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Gráfico Analítico de Linha do Tempo" />
 
 </div>
 
 ---
 
-# `> TROFÉUS`
+## 🏆 `> RECONHECIMENTOS_E_CONQUISTAS`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mateus0818&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=mateus0818&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Troféus obtidos" />
 
 </div>
 
 ---
 
-# `> MATRIZ_DE_CONTRIBUIÇÕES`
+## 🐍 `> NETRUNNER_GRID`
 
 <div align="center">
 
@@ -233,16 +194,15 @@ Algoritmos, estruturas de dados e aplicações maiores em C++.
 
 ---
 
-# `> REDES_SOCIAIS`
+## 📡 `> CANAIS_DE_CONEXÃO`
 
 <div align="center">
 
-<a href="https://github.com/mateus0818">
-<img src="https://img.shields.io/badge/GitHub-mateus0818-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/mateus0818" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-mateus0818-000000?style=for-the-badge&logo=github&logoColor=white" alt="Link do GitHub" />
 </a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Link do LinkedIn" />
 </a>
 
 </div>
@@ -251,12 +211,6 @@ Algoritmos, estruturas de dados e aplicações maiores em C++.
 
 <div align="center">
 
-### `STATUS DO SISTEMA`
-
-<img src="https://img.shields.io/badge/APRENDIZADO-ONLINE-00F7FF?style=for-the-badge" />
-
-<br><br>
-
 ```text
 ┌──────────────────────────────────────────┐
 │                                          │
@@ -264,12 +218,13 @@ Algoritmos, estruturas de dados e aplicações maiores em C++.
 │   > Continue criando.                    │
 │   > Continue evoluindo.                  │
 │                                          │
-│   SISTEMA: MATEUS_DEV                    │
-│   STATUS: ONLINE                         │
+│   SISTEMA: MATEUS_DEV // LOCKDOWN        │
+│   STATUS: OPERACIONAL EM 100%            │
+│   ANO: 2026                              │
 │                                          │
 └──────────────────────────────────────────┘
 ```
 
-### ⚡ `Construindo o futuro, uma linha por vez.`
+### ⚡ `Construindo o futuro, uma linha de código por vez.`
 
 </div>
