@@ -108,18 +108,6 @@ Minha missão é fundir a lógica robusta da computação clássica com a estét
 
 <br />
 
-## 📊 SYSTEM METRICS // TELEMETRIA DO PERFIL
-
-<p align="center">
-  <img src="https://vercel.app" alt="Github Stats" />
-</p>
-
-<p align="center">
-  <img src="https://vercel.app" alt="Top Languages" />
-</p>
-
-<br />
-
 ## 📡 REDES E CONEXÕES // SUB-NETWORKS
 
 <p align="center">
