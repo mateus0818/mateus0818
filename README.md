@@ -4,12 +4,9 @@
   <!-- Linha decorativa superior -->
   <img src="https://vercel.app" width="100%" />
 
-  <!-- Banner Principal Estilo Inicialização do Sistema -->
-  <img src="https://vercel.app" alt="System Initialization Banner" />
-
   <!-- Efeito de Digitação Neon -->
   <a href="https://git.io">
-    <img src="https://demolab.com." alt="Typing Animation" />
+    <img src="https://demolab.com;🤖+WELCOME+TO+JARVIS+CORE" alt="Typing Animation" />
   </a>
 
   <!-- Badges Futuristas de Status -->
@@ -51,16 +48,6 @@ Minha missão é fundir a lógica robusta da computação clássica com a estét
 
 <br>
 
-<!-- TROFÉUS GITHUB COM CORES DE NEON -->
-<div align="center">
-  <h3>🏆 SYSTEM TROPHIES</h3>
-  <a href="https://github.com">
-    <img src="https://vercel.app" alt="Github Trophies" />
-  </a>
-</div>
-
-<br>
-
 <!-- TECH STACK COM ÍCONES MODERNOS -->
 ## 🛠️ TECH STACK // MÓDULOS DE HARDWARE
 
@@ -79,7 +66,6 @@ Minha missão é fundir a lógica robusta da computação clássica com a estét
   <img src="https://shields.io" alt="Git" />
   <img src="https://shields.io" alt="GitHub" />
   <img src="https://shields.io" alt="VS Code" />
-  <img src="https://shields.io" alt="GCC" />
 </p>
 
 <br>
@@ -141,6 +127,7 @@ Minha missão é fundir a lógica robusta da computação clássica com a estét
 
 <div align="center">
   <!-- Gráfico de Atividade Principal e Principais Linguagens -->
+  <!-- IMPORTANTE: Substitua 'mateus0818' pelo seu usuário exato do GitHub nas URLs abaixo se os gráficos não carregarem -->
   <table border="0">
     <tr>
       <td>
@@ -154,24 +141,7 @@ Minha missão é fundir a lógica robusta da computação clássica com a estét
 
   <br>
 
-  <!-- Streak e Gráfico de Atividade Avançado -->
-  <img src="https://herokuapp.com" alt="GitHub Streak" width="49%" />
-  <img src="https://vercel.app" alt="Activity Graph" width="49%" />
-</div>
-
-<br>
-
-<!-- ANIMAÇÃO DA COBRINHA (SNAKE CONTRIBUTION) -->
-## 🐍 NETRUNNER GRID // CONTRIBUIÇÕES
-
-<div align="center">
-  <p><em>A IA do sistema está escaneando a grade de contribuições em busca de falhas...</em></p>
-  <!-- Substitua 'seu-usuario' pelo seu nome de usuário do GitHub nas URLs abaixo se necessário -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
-    <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
-    <img alt="GitHub Insertion Snake Animation" src="https://githubusercontent.com">
-  </picture>
+  <img src="https://herokuapp.com" alt="GitHub Streak" width="100%" />
 </div>
 
 <br>
@@ -187,9 +157,6 @@ Minha missão é fundir a lógica robusta da computação clássica com a estét
   </a>
   <a href="mailto:seu-email@provedor.com" target="_blank">
     <img src="https://shields.io" alt="Secure Mail Inbound" />
-  </a>
-  <a href="https://discord.gg" target="_blank">
-    <img src="https://shields.io" alt="Neural Discord Server" />
   </a>
 </div>
 
