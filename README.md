@@ -1,32 +1,31 @@
-<!-- LAYOUT CENTRADO E BANNER PRINCIPAL COM EFEITO CYBERPUNK / IA -->
-<div align="center">
-  
-  <!-- Linha decorativa superior -->
+# 🤖 MATEUS0818 // JARVIS CORE
+
+<p align="center">
   <img src="https://vercel.app" width="100%" />
+</p>
 
-  <!-- Efeito de Digitação Neon -->
-  <a href="https://github.com">
-    <img src="https://demolab.com;🤖+WELCOME+TO+JARVIS+CORE" alt="Typing Animation" />
+<p align="center">
+  <img src="https://demolab.com;🤖+WELCOME+TO+JARVIS+CORE" alt="Typing Animation" />
+</p>
+
+<p align="center">
+  <img src="https://shields.io" alt="Status Operational" />
+  <img src="https://shields.io" alt="Academic Level" />
+  <img src="https://shields.io" alt="Current Focus" />
+</p>
+
+<p align="center">
+  <a href="#-redes-e-conexões">
+    <img src="https://shields.io" alt="Connect button" />
   </a>
+</p>
 
-  <!-- Badges Futuristas de Status -->
-  <p align="center">
-    <img src="https://shields.io" alt="Status Operational">
-    <img src="https://shields.io" alt="Academic Level">
-    <img src="https://shields.io" alt="Current Focus">
-  </p>
-
-  <p align="center">
-    <a href="#-redes-e-conexões"><img src="https://shields.io" alt="Connect button"/></a>
-  </p>
-
-  <!-- Linha Divisória de Neon -->
+<p align="center">
   <img src="https://imgur.com" width="100%" height="2px" />
-</div>
+</p>
 
-<br>
+<br />
 
-<!-- SEÇÃO SOBRE MIM EM FORMATO DE TERMINAL DE IA -->
 ## 🌐 OVERVIEW // DIAGNÓSTICO DO SISTEMA
 
 ```microdos
@@ -41,36 +40,30 @@ Olá, viajante da rede! Sou um entusiasta de tecnologia que acabou de iniciar a 
 
 Minha missão é fundir a lógica robusta da computação clássica com a estética futurista do ciberespaço, construindo softwares rápidos, eficientes e inteligentes.
 
-- 🎓 **Fase Atual:** 1º Ano em Ciências da Computação.
-- 🧪 **Laboratório Atual:** Estudando ponteiros, alocação de memória e POO em **C++**.
-- 🛠️ **Arquitetura Favorita:** Interfaces escuras, HUDs no estilo JARVIS e sistemas automatizados.
-- ⚡ **Fato Curioso:** Eu prefiro entender o erro de compilação do que receber um código que funciona de primeira sem explicação.
+* 🎓 **Fase Atual:** 1º Ano em Ciências da Computação.
+* 🧪 **Laboratório Atual:** Estudando ponteiros, alocação de memória e POO em **C++**.
+* 🛠️ **Arquitetura Favorita:** Interfaces escuras, HUDs no estilo JARVIS e sistemas automatizados.
+* ⚡ **Fato Curioso:** Eu prefiro entender o erro de compilação do que receber um código que funciona de primeira sem explicação.
 
-<br>
+<br />
 
-<!-- TECH STACK COM ÍCONES MODERNOS -->
 ## 🛠️ TECH STACK // MÓDULOS DE HARDWARE
 
 ### 🧠 Linguagens em Execução
-<p align="left">
-  <img src="https://shields.io" alt="C++" />
-  <img src="https://shields.io" alt="C" />
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="Markdown" />
-</p>
+* <img src="https://shields.io" alt="C++" />
+* <img src="https://shields.io" alt="C" />
+* <img src="https://shields.io" alt="Python" />
+* <img src="https://shields.io" alt="JavaScript" />
+* <img src="https://shields.io" alt="Markdown" />
 
 ### 💻 Ambiente de Desenvolvimento & Ferramentas
-<p align="left">
-  <img src="https://shields.io" alt="Linux" />
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="GitHub" />
-  <img src="https://shields.io" alt="VS Code" />
-</p>
+* <img src="https://shields.io" alt="Linux" />
+* <img src="https://shields.io" alt="Git" />
+* <img src="https://shields.io" alt="GitHub" />
+* <img src="https://shields.io" alt="VS Code" />
 
-<br>
+<br />
 
-<!-- OBJETIVOS ATUAIS EM UM TERMINAL INTERATIVO SIMULADO -->
 ## 🎯 CORE OBJECTIVES // DIRETRIZES ATUAIS
 
 <table>
@@ -90,15 +83,13 @@ Minha missão é fundir a lógica robusta da computação clássica com a estét
   </tr>
 </table>
 
-<br>
+<br />
 
-<!-- SEÇÃO DE PROJETOS EM CARDS MODERNOS HTML -->
 ## 🗂️ DEPLOYED PROJECTS // REPOSITÓRIOS EM DESTAQUE
 
 <div align="center">
   <table border="0">
     <tr>
-      <!-- CARD 1 -->
       <td width="50%" padding="10px">
         <div align="left">
           <h3>⚡ Cyber-Pointer C++</h3>
@@ -107,7 +98,6 @@ Minha missão é fundir a lógica robusta da computação clássica com a estét
           <img src="https://shields.io" alt="Tech" />
         </div>
       </td>
-      <!-- CARD 2 -->
       <td width="50%" padding="10px">
         <div align="left">
           <h3>🤖 Jarvis Academic Bot</h3>
@@ -120,51 +110,48 @@ Minha missão é fundir a lógica robusta da computação clássica com a estét
   </table>
 </div>
 
-<br>
+<br />
 
-<!-- MÉTRICAS E TELEMETRIA (GITHUB READM STATS) -->
 ## 📊 SYSTEM METRICS // TELEMETRIA DO PERFIL
 
-<div align="center">
-  <!-- Gráfico de Atividade Principal e Principais Linguagens usando o servidor alternativo estável -->
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://vercel.app" alt="Github Stats" height="190px" />
-      </td>
-      <td>
-        <img src="https://vercel.app" alt="Top Languages" height="190px" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://vercel.app" alt="Github Stats" />
+</p>
 
-<br>
+<p align="center">
+  <img src="https://vercel.app" alt="Top Languages" />
+</p>
 
-<!-- REDES SOCIAIS E CONEXÕES -->
+<br />
+
 ## 📡 REDES E CONEXÕES // SUB-NETWORKS
 
-<div align="center">
-  <p>Estabeleça uma conexão segura através dos canais abaixo:</p>
+<p align="center">
+  Estabeleça uma conexão segura através dos canais abaixo:
+</p>
 
+<p align="center">
   <a href="https://linkedin.com" target="_blank">
     <img src="https://shields.io" alt="LinkedIn Secure Link" />
   </a>
   <a href="mailto:seu-email@provedor.com" target="_blank">
     <img src="https://shields.io" alt="Secure Mail Inbound" />
   </a>
-</div>
+</p>
 
-<br>
+<br />
 
-<!-- RODAPÉ ELEGANTE E TECNOLÓGICO -->
-<div align="center">
+<p align="center">
   <img src="https://imgur.com" width="100%" height="2px" />
-  <br>
+</p>
+
+<p align="center">
   <samp>
-    <b>SYSTEM LOCKDOWN // EXECUÇÃO BEM-SUCEDIDA</b><br>
+    <b>SYSTEM LOCKDOWN // EXECUÇÃO BEM-SUCEDIDA</b><br />
     Desenhado com 🤍, código limpo e muita cafeína. © 2026.
   </samp>
-  <br>
+</p>
+
+<p align="center">
   <img src="https://vercel.app" width="100%" />
-</div>
+</p>
