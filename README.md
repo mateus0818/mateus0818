@@ -5,7 +5,7 @@
   <img src="https://vercel.app" width="100%" />
 
   <!-- Efeito de Digitação Neon -->
-  <a href="https://git.io">
+  <a href="https://github.com">
     <img src="https://demolab.com;🤖+WELCOME+TO+JARVIS+CORE" alt="Typing Animation" />
   </a>
 
@@ -126,8 +126,7 @@ Minha missão é fundir a lógica robusta da computação clássica com a estét
 ## 📊 SYSTEM METRICS // TELEMETRIA DO PERFIL
 
 <div align="center">
-  <!-- Gráfico de Atividade Principal e Principais Linguagens -->
-  <!-- IMPORTANTE: Substitua 'mateus0818' pelo seu usuário exato do GitHub nas URLs abaixo se os gráficos não carregarem -->
+  <!-- Gráfico de Atividade Principal e Principais Linguagens usando o servidor alternativo estável -->
   <table border="0">
     <tr>
       <td>
@@ -138,10 +137,6 @@ Minha missão é fundir a lógica robusta da computação clássica com a estét
       </td>
     </tr>
   </table>
-
-  <br>
-
-  <img src="https://herokuapp.com" alt="GitHub Streak" width="100%" />
 </div>
 
 <br>
