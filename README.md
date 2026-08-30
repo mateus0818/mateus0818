@@ -26,15 +26,15 @@ int main() {
     std::cout << "🌐 Inicializando perfil de Mateus Santos...\n\n";
 
     std::vector<std::string> diretrizes = {
-        "Estudante de Ciência da Computação 🎓",
-        "Focado atualmente em C++ 💻",
-        "Desenvolvendo lógica de programação 🧠",
-        "Aprendendo algoritmos e estruturas de dados ⚙️",
-        "Construindo projetos linha por linha 🚀"
+        "Estudante de Ciência da Computação",
+        "Focado atualmente em C++",
+        "Desenvolvendo lógica de programação",
+        "Aprendendo algoritmos e estruturas de dados",
+        "Construindo projetos linha por linha"
     };
 
     for (const auto& diretriz : diretrizes) {
-        std::cout << " [✔] " << diretriz << "\n";
+        std::cout << " [OK] " << diretriz << "\n";
     }
 
     return 0;
@@ -54,7 +54,7 @@ int main() {
 <br><br>
 
 <img src="https://img.shields.io/badge/C%2B%2B-Em%20Aprendizado-00F7FF?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-Controle%20de%20Versão-111827?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/Git-Controle%20de%20Vers%C3%A3o-111827?style=for-the-badge&logo=git&logoColor=F05032"/>
 <img src="https://img.shields.io/badge/GitHub-Portfolio-111827?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS%20Code-IDE-111827?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
 
@@ -111,21 +111,17 @@ int main() {
 
 <div align="center">
 
-<a href="https://github.com/mateus0818">
-
+<a href="https://github.com/mateus0818/calculadora-cpp">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=mateus0818&repo=calculadora-cpp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" />
-
 </a>
 
-<a href="https://github.com/mateus0818">
-
+<a href="https://github.com/mateus0818/idade-cpp">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=mateus0818&repo=idade-cpp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" />
-
 </a>
 
 </div>
 
-> ⚠️ **Os cards acima funcionam somente se os repositórios `calculadora-cpp` e `idade-cpp` realmente existirem no seu GitHub.**
+> ⚠️ **Atenção:** os cards acima só aparecem se os repositórios `calculadora-cpp` e `idade-cpp` existirem publicamente na sua conta `mateus0818`. Se algum nome estiver diferente no seu GitHub, troque o valor de `repo=` na URL da imagem pelo nome real do repositório.
 
 ---
 
@@ -165,21 +161,13 @@ int main() {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mateus0818&bg_color=0D1117&color=FFFFFF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=mateus0818&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&area_color=00F7FF&hide_border=true"
+  width="100%"
+  alt="Gráfico de atividade do GitHub"
+/>
 
 </div>
-
----
-
-# 🐍 `> NETRUNNER_GRID`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/mateus0818/mateus0818/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
 
 # 🏆 `> RECONHECIMENTOS`
 
@@ -199,7 +187,7 @@ int main() {
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" />
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/SEU-USUARIO-AQUI">
 <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF" />
 </a>
 
