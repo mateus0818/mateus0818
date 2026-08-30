@@ -4,13 +4,15 @@
 
 ### `SISTEMA INICIALIZANDO...`
 
-<img src="https://demolab.com" alt="Animação de digitação" />
+<a href="https://github.com/mateus0818">
+  <img src="https://demolab.com" alt="Typing SVG" />
+</a>
 
 <br />
 
-<img src="https://shields.io" alt="Status" />
-<img src="https://shields.io" alt="Foco" />
-<img src="https://shields.io" alt="Aprendizado" />
+[![Status do Sistema](https://shields.io)](https://github.com/mateus0818)
+[![Foco Atual](https://shields.io)](https://github.com/mateus0818)
+[![Modo](https://shields.io)](https://github.com/mateus0818)
 
 </div>
 
@@ -21,65 +23,49 @@
 ```cpp
 #include <iostream>
 #include <vector>
+#include <string>
 
 int main() {
-    std::cout << "🌐 inicializando perfil de mateus_santos...\n";
+    std::cout << "🌐 Inicializando perfil de mateus_santos...\n";
 
     std::vector<std::string> diretrizes = {
-        "Estudante de Ciencia da Computacao 🎓",
+        "Estudante de Ciência da Computação 🎓",
         "Atualmente focado nos fundamentos de C++ 💻",
-        "Estudando logica e estruturas de dados avancadas 🧠",
-        "Construindo solucoes eficientes linha por linha 🚀"
+        "Estudando lógica e estruturas de dados avançadas 🧠",
+        "Construindo soluções eficientes linha por linha 🚀"
     };
 
     for(const auto& diretriz : diretrizes) {
-        std::cout << " > " << diretriz << "\n";
+        std::cout << " [✔] " << diretriz << "\n";
     }
 
     return 0;
 }
 ```
 
-> **"Todo especialista já foi um iniciante."** 🦾
+> 💡 **"Todo especialista já foi um iniciante."** 🦾
 
 ---
 
-## 🛠️ `> TECNOLOGIAS_E_HARDWARE`
+## 🛠️ `> HARDWARE_E_TECNOLOGIAS`
 
 <div align="center">
 
-### Stack em Execução Principal
-<img src="https://skillicons.dev" alt="Tech Stack" />
+### 💻 Stack do Sistema Principal
+[![Minhas Tecnologias](https://skillicons.dev)](https://skillicons.dev)
 
 <br />
 
-### Módulos Complementares
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+### 🧠 Módulos em Desenvolvimento
 <img src="https://shields.io" alt="Lógica" />
+<img src="https://shields.io" alt="Estruturas" />
 
 </div>
 
-### 📚 Grade de Estudos do Sistema
-* 🟩 **Core:** Variáveis, Tipos de Dados, Ponteiros e Alocação de Memória.
-* 🟦 **Estruturas:** `if / else`, Laços de Repetição (`for`, `while`) e Funções.
-* 🟪 **Avançado:** Programação Orientada a Objetos (POO), Algoritmos e Complexidade de Código.
-
----
-
-## 🔧 `> FERRAMENTAS_DE_DESENVOLVIMENTO`
-
-<div align="center">
-
-<img src="https://skillicons.dev" alt="Tools" />
-
-</div>
-
-| Módulo | Escopo de Utilização | Status do Sistema |
-| :--- | :--- | :--- |
-| 💻 **VS Code** | Engenharia de Software & Escrita de Código | `PRONTO` |
-| 🐙 **GitHub** | Repositório em Nuvem & Portfólio Central | `ATIVO` |
-| 🔧 **Git** | Controle de Versão e Gestão de Linhas do Tempo | `CONFIGURADO` |
-| 🪟 **Windows/Linux** | Ambientes Compartilhados de Desenvolvimento | `OPERANTE` |
+### 📚 Grade de Transmissão de Conhecimento
+* 🟩 **Core:** Variáveis, Tipos de Dados, Ponteiros e Alocação Dinâmica de Memória.
+* 🟦 **Estruturas:** Operadores Condicionais (`if/else`), Laços de Repetição (`for`, `while`) e Modularização por Funções.
+* 🟪 **Avançado:** Programação Orientada a Objetos (POO), Análise de Algoritmos e Complexidade de Código.
 
 ---
 
@@ -87,20 +73,22 @@ int main() {
 
 <div align="center">
 
-<table border="0">
+<table border="0" width="100%">
 <tr>
 <td width="50%" valign="top">
 
 ### 🧮 Cyber-Calculadora C++
-Projeto de baixo nível desenvolvido para consolidar estruturas condicionais e tratamento de erros aritméticos.
-`C++` `Entrada/Saída` `Lógica Pura`
+Projeto de baixo nível desenvolvido para consolidar estruturas condicionais e tratamento de erros aritméticos em runtime.
+<br />
+<code>C++</code> <code>Entrada/Saída</code> <code>Lógica Pura</code>
 
 </td>
 <td width="50%" valign="top">
 
 ### 🔢 Matrix Age Calculator
-Algoritmo focado em gerenciamento de memória temporária, manipulação de variáveis cronológicas e operadores.
-`C++` `Variáveis` `Operadores`
+Algoritmo focado em gerenciamento de memória temporária, manipulação de variáveis cronológicas e operadores lógicos.
+<br />
+<code>C++</code> <code>Variáveis</code> <code>Operadores</code>
 
 </td>
 </tr>
@@ -108,15 +96,17 @@ Algoritmo focado em gerenciamento de memória temporária, manipulação de vari
 <td width="50%" valign="top">
 
 ### 🚧 Repositórios Alpha
-Códigos acadêmicos experimentais sendo criados e lapidados durante as aulas da faculdade.
-`EM DESENVOLVIMENTO` `BUILDING`
+Códigos acadêmicos experimentais e desafios práticos desenvolvidos durante a grade da faculdade.
+<br />
+<code>EM DESENVOLVIMENTO</code> <code>LABS</code>
 
 </td>
 <td width="50%" valign="top">
 
 ### 🤖 Jarvis Core Interface
-Futuro script em terminal CLI imitando interfaces cyberpunk e automações automatizadas.
-`CARREGANDO DIRETRIZES...`
+Script CLI em terminal simulando interfaces cyberpunk clássicas e automatizando fluxos locais de compilação.
+<br />
+<code>CARREGANDO DIRETRIZES...</code> <code>CLI</code>
 
 </td>
 </tr>
@@ -153,10 +143,10 @@ Futuro script em terminal CLI imitando interfaces cyberpunk e automações autom
 
 <table border="0">
 <tr>
-<td>
+<td align="center" valign="bottom">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateus0818&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
 </td>
-<td>
+<td align="center" valign="bottom">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus0818&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
 </td>
 </tr>
@@ -199,10 +189,10 @@ Futuro script em terminal CLI imitando interfaces cyberpunk e automações autom
 <div align="center">
 
 <a href="https://github.com/mateus0818" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-mateus0818-000000?style=for-the-badge&logo=github&logoColor=white" alt="Link do GitHub" />
+  <img src="https://shields.io" alt="Link do GitHub" />
 </a>
 <a href="https://www.linkedin.com/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Link do LinkedIn" />
+  <img src="https://shields.io" alt="Link do LinkedIn" />
 </a>
 
 </div>
