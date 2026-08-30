@@ -1,4 +1,4 @@
-[README (2).md](https://github.com/user-attachments/files/31620927/README.2.md)
+[README (4).md](https://github.com/user-attachments/files/31621004/README.4.md)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f0c29,50:302b63,100:24243e&text=MATEUS%20SANTOS&fontColor=00F7FF&fontSize=42&fontAlignY=35&animation=fadeIn&desc=SYSTEM%20//%20DEVELOPER%20CORE&descAlignY=55&descSize=18" width="100%"/>
@@ -78,15 +78,13 @@ sistema:
 <div align="center">
 
 <a href="https://github.com/mateus0818/simulador-banco-cpp">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=mateus0818&repo=calculadora-cpp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF2EC4&text_color=C9D1D9"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=mateus0818&repo=simulador-banco-cpp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF2EC4&text_color=C9D1D9"/>
 </a>
 <a href="https://github.com/mateus0818/validacao-entrada-cpp">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=mateus0818&repo=idade-cpp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF2EC4&text_color=C9D1D9"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=mateus0818&repo=validacao-entrada-cpp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF2EC4&text_color=C9D1D9"/>
 </a>
 
 </div>
-
-> ⚠️ `[AVISO_DO_SISTEMA]` Os cards acima só carregam se os repositórios `calculadora-cpp` e `idade-cpp` existirem publicamente na conta `mateus0818`. Ajuste `repo=` na URL da imagem caso o nome real seja diferente.
 
 ## `> 05_OBJETIVOS_ATUAIS`
 
